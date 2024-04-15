@@ -6,7 +6,7 @@
 /*   By: jnajul <jnajul@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/04/14 11:14:54 by jnajul            #+#    #+#             */
-/*   Updated: 2024/04/14 11:23:36 by jnajul           ###   ########.fr       */
+/*   Updated: 2024/04/14 23:30:49 by jnajul           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -39,6 +39,7 @@ size_t	ft_strspn(const char *s, const char *accept)
 	return (i);
 }
 
+/*
 #include <stdio.h>
 
 int	main(int argc, char **argv)
@@ -52,3 +53,4 @@ int	main(int argc, char **argv)
 		printf("\n");
 	return (0);
 }
+*/
